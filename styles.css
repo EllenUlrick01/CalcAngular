@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fundo{
+    background-image:linear-gradient(rgb(34, 32, 41),rgb(57, 53, 93));
+    height: 100%;
+    color:rgb(138, 245, 236);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.calculadora{
+    position:absolute;
+    background-color: rgb(49, 34, 81);
+    top: 50%;
+    left: 50%;
+    
+}
+#resultado{
+
+}
